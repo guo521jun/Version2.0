@@ -1,0 +1,6 @@
+# Eclipse #
+.settings/
+target/
+.classpath
+.project
+.springBeans
